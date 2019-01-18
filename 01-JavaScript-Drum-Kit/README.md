@@ -2,6 +2,6 @@
 
 * querySelector
 * attribute selector
-* <audio></audio>
+* audio tag
 * css transform transition
 * transition end event
